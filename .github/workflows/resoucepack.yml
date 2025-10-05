@@ -1,4 +1,6 @@
 name: Build and Release Resource Pack
+permissions:
+  contents: write
 
 on:
   push:
