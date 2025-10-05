@@ -1,0 +1,183 @@
+{
+
+    "the_internationale": {
+        "sounds": [
+          "smp:music/the_internationale"
+        ]
+    },
+    "amogus": {
+      "sounds": [
+        "smp:sfx/amogus"
+      ]
+    },
+    "anime_wow": {
+        "sounds": [
+          "smp:sfx/anime_wow"
+        ]
+    },
+    "bruh": {
+      "sounds": [
+        "smp:sfx/bruh"
+      ]
+    },
+    "careless_whisper": {
+      "sounds": [
+        "smp:sfx/careless_whisper"
+      ]
+    },
+    "ding_sfx": {
+      "sounds": [
+        "smp:sfx/ding_sfx"
+      ]
+    },
+    "discord_join": {
+      "sounds": [
+        "smp:sfx/discord_join"
+      ]
+    },
+    "discord_notification": {
+      "sounds": [
+        "smp:sfx/discord_notification"
+      ]
+    },
+    "drip_goku": {
+      "sounds": [
+        "smp:sfx/drip_goku"
+      ]
+    },
+    "dry_fart": {
+      "sounds": [
+        "smp:sfx/dry_fart"
+      ]
+    },
+    "emotional_damage": {
+      "sounds": [
+        "smp:sfx/emotional_damage"
+      ]
+    },
+    "fart_meme": {
+      "sounds": [
+        "smp:sfx/fart_meme"
+      ]
+    },
+    "fart_with_reverb": {
+      "sounds": [
+        "smp:sfx/fart_with_reverb"
+      ]
+    },
+    "fortnite_death": {
+      "sounds": [
+        "smp:sfx/fortnite_death"
+      ]
+    },
+    "galaxy_meme": {
+      "sounds": [
+        "smp:sfx/galaxy_meme"
+      ]
+    },
+    "goofy_ahh_sounds": {
+      "sounds": [
+        "smp:sfx/goofy_ahh_sounds"
+      ]
+    },
+    "goofy_car_horn": {
+      "sounds": [
+        "smp:sfx/goofy_car_horn"
+      ]
+    },
+    "metal_pipe_clang": {
+      "sounds": [
+        "smp:sfx/metal_pipe_clang"
+      ]
+    },
+    "amongus_role": {
+      "sounds": [
+        "smp:sfx/amongus_role"
+      ]
+    },
+    "omg": {
+      "sounds": [
+        "smp:sfx/omg"
+      ]
+    },
+    "outro_song": {
+      "sounds": [
+        "smp:sfx/outro_song"
+      ]
+    },
+    "perfect_fart": {
+      "sounds": [
+        "smp:sfx/perfect_fart"
+      ]
+    },
+      "punch": {
+      "sounds": [
+        "smp:sfx/punch"
+      ]
+    },
+    "rehehehe": {
+      "sounds": [
+        "smp:sfx/rehehehe"
+      ]
+    },
+    "rizz_sounds": {
+      "sounds": [
+        "smp:sfx/rizz_sounds"
+      ]
+    },
+    "roblox_oof": {
+      "sounds": [
+        "smp:sfx/roblox_oof"
+      ]
+    },
+    "sad_violin": {
+      "sounds": [
+        "smp:sfx/sad_violin"
+      ]
+    },
+    "snore_mimimi": {
+      "sounds": [
+        "smp:sfx/snore_mimimi"
+      ]
+    },
+    "spongebob_fail": {
+      "sounds": [
+        "smp:sfx/spongebob_fail"
+      ]
+    },
+    "tacobell": {
+      "sounds": [
+        "smp:sfx/tacobell"
+      ]
+    },
+      "vine_boom": {
+      "sounds": [
+        "smp:sfx/vine_boom"
+      ]
+    },
+    "what_how": {
+      "sounds": [
+        "smp:sfx/what_how"
+      ]
+    },
+      "winxp_error": {
+      "sounds": [
+        "smp:sfx/winxp_error"
+      ]
+    },
+    "wrong_answer": {
+      "sounds": [
+        "smp:sfx/wrong_answer"
+      ]
+    },
+    "yeah_boiii": {
+      "sounds": [
+        "smp:sfx/yeah_boiii"
+      ]
+    },
+  "your_phone_linging": {
+    "sounds": [
+      "smp:sfx/your_phone_linging"
+    ]
+  }
+}
